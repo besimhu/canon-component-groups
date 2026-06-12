@@ -1,0 +1,10 @@
+name,sitemap_url,root_path,locale
+CUSA,https://www.usa.canon.com/sitemap.xml,,
+CSAI,https://www.csai.canon.com/sitemap.xml,,
+CVI,https://www.cvi.canon.com/sitemap.xml,/content/canon/cvi/cvi-homepage,
+CCI,https://shop.canon.ca/sitemap.xml,,en_ca
+CL,https://www.canontiendaonline.cl/media/sitemap/sitemap_cl.xml,,es_cl
+MX,https://www.tiendacanon.com.mx/media/sitemap/sitemap_mx.xml,,es_mx
+PA,https://estore.canon.com.pa/media/sitemap/sitemap_pa.xml,,es_pa
+CLA,https://www.cla.canon.com/en/sitemap.xml,,en
+BR,https://www.loja.canon.com.br/sitemap_11801.xml,,pt/canonbr
